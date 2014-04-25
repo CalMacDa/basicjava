@@ -5,7 +5,7 @@
 function myFunction()
 {
 document.body.innerHTML="";
-<button onclick="myFunction()">advance</button>
+<button onclick="myFunction()">cheese</button>
 
 <p id="demo"></p>
 }
