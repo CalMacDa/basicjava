@@ -4,8 +4,7 @@
 <script>
 function myFunction()
 {
-document.body.innerHTML="";
-<button onclick="myFunction()">cheese</button>
+document.body.innerHTML="you are WRONG";
 
 <p id="demo"></p>
 }
@@ -14,9 +13,9 @@ document.body.innerHTML="";
 </head>
 <body>
 
-<p>You are trudging through a forest.</p>
+<p>You think coding is easy?.</p>
 
-<button onclick="myFunction()">advance</button>
+<button onclick="myFunction()">find out</button>
 
 <p id="demo"></p>
 
