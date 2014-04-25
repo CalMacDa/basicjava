@@ -4,8 +4,8 @@
 <script>
 function myFunction()
 {
-document.body.innerHTML = "";
 document.getElementById("demo").innerHTML="NOTHING!";
+document.body.innerHTML = "";
 }
 </script>
 </head>
@@ -16,7 +16,6 @@ document.getElementById("demo").innerHTML="NOTHING!";
 <button onclick="myFunction()">LETS FIND OUT</button>
 
 <p id="demo"></p>
-
 
 </body>
 </html>
