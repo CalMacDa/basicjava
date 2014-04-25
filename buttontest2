@@ -4,15 +4,15 @@
 <script>
 function myFunction()
 {
-document.getElementById("demo").innerHTML="Hello World";
+document.getElementById("demo").innerHTML="NOTHING!";
 }
 </script>
 </head>
 <body>
 
-<p>Click the button to trigger a function.</p>
+<p>WHAT DOES THIS BUTTON DO?.</p>
 
-<button onclick="myFunction()">Click me</button>
+<button onclick="myFunction()">LETS FIND OUT</button>
 
 <p id="demo"></p>
 
