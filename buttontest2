@@ -5,6 +5,7 @@
 function myFunction()
 {
 document.body.innerHTML="You Are Hungry";
+<button onclick="getfood()">advance</button>
 document.body.innerHTML="";
 <button onclick="getfood()">Pick Up The Food</button>
 }
@@ -18,7 +19,7 @@ document.body.innerHTML="YOU WIN!"
 
 <p>You are trudging through a forest.</p>
 
-<button onclick="myFunction()">LETS FIND OUT</button>
+<button onclick="myFunction()">advance</button>
 
 <p id="demo"></p>
 
