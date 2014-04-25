@@ -6,9 +6,6 @@ function myFunction()
 {
 document.body.innerHTML="";
 document.body.innerHTML="hai";
-
-
-<p id="demo"></p>
 }
 
 </script>
