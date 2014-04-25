@@ -11,7 +11,7 @@
 <script>
 function myFunction()
 {
-<p> It doesn't do anything!</p>
+<p>It doesn't do anything!</p>
 }
 </script>
 
