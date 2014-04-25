@@ -4,13 +4,19 @@
 <script>
 function myFunction()
 {
-document.body.innerHTML="NOTHING! >:}";
+document.body.innerHTML="You Are Hungry";
+document.body.innerHTML="";
+<button onclick="getfood()">Pick Up The Food</button>
+}
+function getfood()
+{
+document.body.innerHTML="YOU WIN!"
 }
 </script>
 </head>
 <body>
 
-<p>WHAT DOES THIS BUTTON DO?.</p>
+<p>You are trudging through a forest.</p>
 
 <button onclick="myFunction()">LETS FIND OUT</button>
 
