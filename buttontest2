@@ -4,15 +4,10 @@
 <script>
 function myFunction()
 {
-document.body.innerHTML="You Are Hungry";
-<button onclick="getfood()">advance</button>
 document.body.innerHTML="";
-<button onclick="getfood()">Pick Up The Food</button>
+document.body.innerHTML="hai";
 }
-function getfood()
-{
-document.body.innerHTML="YOU WIN!"
-}
+
 </script>
 </head>
 <body>
