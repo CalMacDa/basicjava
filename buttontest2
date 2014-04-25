@@ -5,15 +5,9 @@
 function myFunction()
 {
 document.body.innerHTML="";
-document.body.innerHTML="hai";
-</script>
-</head>
-<body>
-
-<p>You are trudging through a forest.</p>
-
 <button onclick="myFunction()">advance</button>
 
+<p id="demo"></p>
 }
 
 </script>
