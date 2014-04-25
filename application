@@ -3,15 +3,15 @@
 <body>
 
 <h1>My First JavaScript</h1>
-<p>Click the button to display the current day, date, and time.</p>
+<p>hmmmmm... I wonder what this does...</p>
 <p id="demo"></p>
 
-<button type="button" onclick="myFunction()">Try it</button>
+<button type="button" onclick="myFunction()">Only One Way To Find Out</button>
 
 <script>
 function myFunction()
 {
-document.getElementById("demo").innerHTML = Date();
+<p> It doesn't do anything!</p>
 }
 </script>
 
