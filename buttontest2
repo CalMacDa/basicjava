@@ -4,7 +4,7 @@
 <script>
 function myFunction()
 {
-document.getElementsByTagName('HTML')[0].innerHTML="";
+document.body.innerHTML="New HTML here";
 document.getElementById("demo").innerHTML="NOTHING!";
 }
 </script>
