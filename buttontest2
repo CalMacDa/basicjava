@@ -4,8 +4,8 @@
 <script>
 function myFunction()
 {
+document.getElementsByTagName('HTML')[0].innerHTML="";
 document.getElementById("demo").innerHTML="NOTHING!";
-document.body.innerHTML = "";
 }
 </script>
 </head>
