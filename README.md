@@ -1,3 +1,4 @@
 basicjava
 =========
-hi
+A tester for some javascript coding
+
