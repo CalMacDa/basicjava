@@ -6,7 +6,7 @@ function myFunction()
 {
 document.body.innerHTML="";
 document.body.innerHTML="hai";
-<button onclick="myFunction()">advance</button>
+
 
 <p id="demo"></p>
 }
